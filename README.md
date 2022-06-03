@@ -38,7 +38,7 @@ In our Total Summary Table below for all manufacturing lots, the variance of the
 
       Total Summary Table                                      Lot Summary Table
 
-      <img width="337" alt="Total_Summary" src="https://user-images.githubusercontent.com/99817571/171877133-f4538095-d257-4f30-a2bd-17d980faeb3d.png">           <img width="491" alt="Lot_Summary" src="https://user-images.githubusercontent.com/99817571/171877208-072b9a1b-66a7-43cf-9e68-ccb2071ccaed.png">
+   <img width="337" alt="Total_Summary" src="https://user-images.githubusercontent.com/99817571/171877133-f4538095-d257-4f30-a2bd-17d980faeb3d.png">          <img width="491" alt="Lot_Summary" src="https://user-images.githubusercontent.com/99817571/171877208-072b9a1b-66a7-43cf-9e68-ccb2071ccaed.png">
 
 
 
