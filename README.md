@@ -26,9 +26,6 @@ From our Linear Regression Model Summary Table below we can observe the followin
 
       <img width="502" alt="Linear_Regression_Model_Summary" src="https://user-images.githubusercontent.com/99817571/171870705-290d54a6-1ea8-4d0f-b27b-29e6468664a2.png">
 
-
-
-
 ---
 ## Deliverable 2
 ---
@@ -36,16 +33,13 @@ From our Linear Regression Model Summary Table below we can observe the followin
 
 In our Total Summary Table below for all manufacturing lots, the variance of the suspension coils is 62.29 PSI, which is well within the 100 PSI          variance requirement. Moreover, if we seperate the manufacturing lot data by each seperate lot as shown in our Lot Summary table, we can observe that Lot 1 and Lot 2 are well within the 100 PSI variance requirement; with variances of 0.98 and 7.47 respectively. Lot 3 is pushing the variance up in the Summary Table with a variance of 170.29. It is Lot 3 that is signicantly impacting the variance at the total manufacturing lot level.
 
-   Total Summary Table                                      
-
-   <img width="337" alt="Total_Summary" src="https://user-images.githubusercontent.com/99817571/171877133-f4538095-d257-4f30-a2bd-17d980faeb3d.png">          
-   Lot Summary Table
+   1. Total Summary Table
+      
+      <img width="337" alt="Total_Summary" src="https://user-images.githubusercontent.com/99817571/171877133-f4538095-d257-4f30-a2bd-17d980faeb3d.png">  
    
-   <img width="491" alt="Lot_Summary" src="https://user-images.githubusercontent.com/99817571/171877208-072b9a1b-66a7-43cf-9e68-ccb2071ccaed.png">
+   2. Lot Summary Table                                    
 
-
-
-
+      <img width="491" alt="Lot_Summary" src="https://user-images.githubusercontent.com/99817571/171877208-072b9a1b-66a7-43cf-9e68-ccb2071ccaed.png">        
 ---
 ## Resources
 ---
