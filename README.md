@@ -84,6 +84,6 @@ To implement our hypothesis we will run a multiple linear regression to determin
 ---
 ## Resources
 ---
-Data Source: MechaCar_mpg.csv, Suspension_Coil.csv
+Data Source: [MechaCar_mpg.csv], [Suspension_Coil.csv]
 
 Software: RStudio
