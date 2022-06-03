@@ -80,7 +80,7 @@ Our Null Hypothesis will be: MechaCar is priced correctly based on its performan
 
 Our Alternative Hypothesis will be: MechaCar is not priced correctly based on its performance in key factors for its model type.
 
-To implement our hypothesis we will run a Multiple Linear Regression to determine the factors that have the highest correlation with the Current Price(Selling) and which independent variables has/have the greatest effect on Selling Price.
+To implement our study we will run a Multiple Linear Regression to determine the factors that have the highest correlation with the Current Price(Selling) and which independent variables has/have the greatest effect on Selling Price.
 
 ---
 ## Resources
