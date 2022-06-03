@@ -47,6 +47,13 @@ In our Total Summary Table below for all manufacturing lots, the variance of the
 ### T-Tests on Suspension Coils
 
 
+
+---
+## Deliverable 4
+---
+### Study Design: MechaCar vs Competition
+
+
 ---
 ## Resources
 ---
