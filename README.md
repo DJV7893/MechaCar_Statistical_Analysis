@@ -46,13 +46,40 @@ In our Total Summary Table below for all manufacturing lots, the variance of the
 ---
 ### T-Tests on Suspension Coils
 
+All Manufacturing Lots:
+With a p-V\value of 0.06, which is higher than the standard significance level of 0.05, there is not enough evidence to reject the null hypothesis. Which means that the mean of all three of these manufacturing lots is statistically similar to the presumed population mean of 1500.
 
+<img width="403" alt="Summary_t-test" src="https://user-images.githubusercontent.com/99817571/171884847-9c594d9b-823b-457c-97da-cf88c57c2c25.png">
+
+Lot 1:
+With a p-value of 1 we cannot reject the null hypothesis that there is no statistical difference between the observed sample mean and the presumed population mean (1500).
+
+<img width="472" alt="Lot1_t-test" src="https://user-images.githubusercontent.com/99817571/171888622-9163c978-b089-4e02-867b-235429e712ea.png">
+
+Lot 2:
+With a p-Value of 0.61 we cannot reject the null hypothesis that there is no statistical difference between the observed sample mean and the presumed population mean (1500).
+
+<img width="470" alt="Lot2_t-test" src="https://user-images.githubusercontent.com/99817571/171889675-613fcb48-13ca-4667-91af-df5bc43f03be.png">
+
+Lot 3:
+With a p-Value of 0.04, which is lower than the standard significance level of 0.05, we can reject the null hypothesis that this sample mean and the presumed population mean are not statistically different.
+
+<img width="472" alt="Lot3_t-test" src="https://user-images.githubusercontent.com/99817571/171891222-cfb852e6-226e-4e1d-9f16-76ca8f235f0f.png">
 
 ---
 ## Deliverable 4
 ---
 ### Study Design: MechaCar vs Competition
 
+For our additional statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers, we will collect data from various manufacturers comparable models over the last 5 years. We will collect data from these comparable models for the following metrics: 
+
+   1. Dependent Variable: Current Price(Selling)
+   2. Independet Variables: Safety Feature Rating (Independent Variable), MPG (Gasoline Efficiency), Resale Value
+
+Our Null Hypothesis will be: MechaCar is priced correctly based on its performance in key factors for its model type.
+Our Alternative Hypothesis will be: MechaCar is not priced correctly based on its performance in key factors for its model type.
+
+To implement our hypothesis we will run a multiple linear regression to determine the factors that have the highest correlation with the Current Price(Selling) and which independent variables has/have the greatest effect on Selling Price.
 
 ---
 ## Resources
